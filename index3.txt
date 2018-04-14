@@ -5,7 +5,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 173443857);
+  gtag('config', '173443857');
 </script>
 <!DOCTYPE html>
 <html>
@@ -15,7 +15,7 @@
 	<body><h1 style="text-align:center"><strong>Kate</strong></h1>
 <!-- The following is a picture of me rock climbing in Maine attached with the required link.-->
         <a href="http://hmpg.net/" 
-    <img src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13876328_1463468743678806_2112503819236475254_n.jpg?_nc_cat=0&oh=4b730cd5009e4fd3b1df62e02e3659e8&oe=5B3C9C98" /> </a>
+    <img src="http://bit.ly/RhrMEn" /> </a>
         <p style = "font-size:20px; color: blue; font-family: Arial"<em>I am a 21 year old female who attends the University of Maryland and enjoys the outdoors and rock climbing.</em></p>
 <!-- The following is a list of my top 3 favorite quotes.-->
 	   <h2 style="background-color: yellow; font-size: 50px; color: red">My Favorite Quotes</h2>
